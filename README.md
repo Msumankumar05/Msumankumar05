@@ -43,9 +43,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Msumankumar05&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="Msumankumar05's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Msumankumar05&theme=shades-of-purple&radius=10" alt="Msumankumar05's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
