@@ -14,7 +14,6 @@
 - 📱 Mobile App Developer using Kotlin & Flutter
 - 🤖 Building AI-powered real-world applications
 - 🧠 Strong interest in DSA & problem-solving
-- ⚙️ Exploring Full-Stack Development & APIs
 - 🚀 Passionate about scalable and user-centric apps
 - 💡 Always learning, building, and improving
 - 🤝 Open to collaboration and innovative projects
