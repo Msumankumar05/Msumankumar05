@@ -8,6 +8,9 @@
 
 ### Full-Stack Web Developer | Mobile App Developer | AI Enthusiast
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Msumankumar05/Msumankumar05/main/assets/ChatGPT Image Jun 21, 2026, 08_31_43 PM.png" width="100%" alt="Suman Kumar Banner">
+</p>
 
 ## 🚀 About Me
 
@@ -110,7 +113,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.youtube.com/@AERONMusic">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
