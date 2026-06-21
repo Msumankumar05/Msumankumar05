@@ -1,14 +1,13 @@
-# Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Makoju Suman Kumar
-
-### Full-Stack Web Developer | Mobile App Developer | AI Enthusiast
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Msumankumar05">
     <img src="https://komarev.com/ghpvc/?username=Msumankumar05&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="100%" />
+# Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Makoju Suman Kumar
+
+### Full-Stack Web Developer | Mobile App Developer | AI Enthusiast
+
 
 ## 🚀 About Me
 
