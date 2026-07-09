@@ -8,9 +8,11 @@
 
 ### Full-Stack Web Developer | Mobile App Developer | AI Enthusiast
 
-<p align="center">
+I am an **MCA Student** and software engineer focused on building high-performance web applications and cross-platform mobile ecosystems. By pairing structured backend design with intuitive frontend architectures, I create applications that are scalable, maintainable, and deeply integrated with modern AI utilities.
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Msumankumar05/Msumankumar05/main/assets/ChatGPT Image Jun 21, 2026, 08_31_43 PM.png" width="100%" alt="Suman Kumar Banner">
-</p>
+</p> -->
 
 ## 🚀 About Me
 
