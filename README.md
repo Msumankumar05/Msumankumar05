@@ -1,51 +1,39 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Msumankumar05">
-    <img src="https://komarev.com/ghpvc/?username=Msumankumar05&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Msumankumar05&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
 </p>
 
-# Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Makoju Suman Kumar
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" width="35">, I'm Makoju Suman Kumar
+</h1>
 
-### Full-Stack Web Developer | Mobile App Developer | AI Enthusiast
+<h3 align="center">
+Full-Stack Developer • Mobile App Developer • AI Enthusiast
+</h3>
 
-I am an **MCA Student** and software engineer focused on building high-performance web applications and cross-platform mobile ecosystems. By pairing structured backend design with intuitive frontend architectures, I create applications that are scalable, maintainable, and deeply integrated with modern AI utilities.
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Msumankumar05/Msumankumar05/main/assets/ChatGPT Image Jun 21, 2026, 08_31_43 PM.png" width="100%" alt="Suman Kumar Banner">
-</p> -->
-
-## 🚀 About Me
-
-* 🎓 MCA Student passionate about Software Development
-* 🌐 Full-Stack Web Developer (MERN Stack)
-* 📱 Mobile App Developer (Flutter & Kotlin)
-* 🤖 Building AI-powered applications and smart solutions
-* 🧠 DSA Enthusiast & Problem Solver
-* 🚀 Focused on creating scalable and user-friendly products
-* 💡 Constantly learning new technologies and best practices
-* 🤝 Open to collaborations, internships, and exciting projects
+<p align="center">
+Building modern web applications, cross-platform mobile experiences, and AI-powered products with a focus on clean architecture, performance, and intuitive user experiences.
+</p>
 
 ---
 
-## 🎯 Current Focus
+# About
 
-* 🌐 Full-Stack Web Development
-* 📱 Cross-Platform Mobile Apps with Flutter
-* ⚡ Backend Development using Node.js & Express
-* 🗄️ Database Design with MongoDB & MySQL
-* 🤖 AI Integration in Web & Mobile Applications
-* 🔗 REST API Development & Integration
-* ☁️ Deployment & Cloud Services
-* 🧠 Data Structures & Algorithms
+I'm an **MCA student** passionate about building software that solves real-world problems.
+
+My work spans **full-stack web development**, **mobile application development**, and **AI integration**, where I enjoy turning ideas into scalable, production-ready products.
+
+Currently exploring modern architectures, backend systems, and intelligent applications while continuously improving my problem-solving skills through DSA.
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap" />
 </p>
 
 ### Backend
@@ -54,84 +42,89 @@ I am an **MCA Student** and software engineer focused on building high-performan
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### Mobile Development
+### Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,react" />
 </p>
 
-### Programming Languages
+### Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🌟 Featured Skills
-
-✅ MERN Stack Development
-✅ Flutter App Development
-✅ REST API Development
-✅ MongoDB & MySQL Database Design
-✅ Firebase Authentication & Firestore
-✅ Responsive UI/UX Design
-✅ AI-Powered Applications
-✅ Git & GitHub Version Control
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-suman-kumar-43b3a1300/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:ms.kumar.devloper05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/suman_k_72/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 💻 Current Projects
+# Currently Building
 
-🚜 Farmora – Online Fresh Fruits & Vegetables Marketplace
+🚜 **Farmora**  
+Farm-to-home marketplace connecting local farmers with consumers.
 
-🤖 AI Symptom Checker Web Application
+🤖 **Sky AI**  
+AI-powered productivity and assistant platform.
 
-📱 Flutter Mobile Applications
+🎬 **CineDB**  
+Modern movie discovery application built with React.
 
-🌐 MERN Stack Full-Stack Projects
+📱 **Mobile Apps**  
+Cross-platform applications using Flutter and Kotlin.
 
 ---
 
-## 🎮 Contribution Activity
+# Interests
+
+- Full-Stack Engineering
+- Mobile Development
+- Artificial Intelligence
+- REST APIs
+- Cloud Deployment
+- System Design
+- Performance Optimization
+- Data Structures & Algorithms
+
+---
+
+# Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph" />
+<a href="https://www.linkedin.com/in/m-suman-kumar-43b3a1300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ms.kumar.devloper05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/suman_k_72">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Msumankumar05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote 
+# Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"/>
+</p>
+
+---
+
+### Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 </div>
