@@ -100,7 +100,24 @@ Cross-platform applications using Flutter and Kotlin.
 - Data Structures & Algorithms
 
 ---
+⚡ Currently Building
 
+⚡ Arc Reactor AI Assistant
+
+A physical AI assistant inspired by the Arc Reactor / JARVIS concept.
+
+The project aims to combine:
+
+🎙️ Voice interaction
+🤖 AI-powered assistance
+🧠 AI agents and tool calling
+💡 Hardware-based visual feedback
+🏠 Smart-device automation
+💻 Developer assistance
+🌐 Real-time information and APIs
+
+Building a physical interface around an AI assistant instead of keeping the assistant entirely inside a screen.
+---
 # Connect
 
 <p align="center">
