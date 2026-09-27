@@ -19,12 +19,11 @@ Building modern web applications, cross-platform mobile experiences, and AI-powe
 ---
 
 # About
+I'm an MCA student and aspiring Software Engineer passionate about building software that solves real-world problems.
 
-I'm an **MCA student** passionate about building software that solves real-world problems.
+My work focuses on full-stack web development, backend systems, mobile applications, and AI integration. I enjoy turning ideas into practical products with clean architecture and scalable solutions.
 
-My work spans **full-stack web development**, **mobile application development**, and **AI integration**, where I enjoy turning ideas into scalable, production-ready products.
-
-Currently exploring modern architectures, backend systems, and intelligent applications while continuously improving my problem-solving skills through DSA.
+I'm currently strengthening my skills in JavaScript, React, Node.js, databases, APIs, system design, and Data Structures & Algorithms while building real-world projects.
 
 ---
 
@@ -65,13 +64,24 @@ Currently exploring modern architectures, backend systems, and intelligent appli
 # Currently Building
 
 🚜 **Farmora**  
-Farm-to-home marketplace connecting local farmers with consumers.
 
-🤖 **Sky AI**  
-AI-powered productivity and assistant platform.
+A full-stack farm-to-home marketplace designed to connect local farmers with consumers.
+
+Tech: React • Node.js • Express.js • MongoDB
+
+🔗 Live Demo: [https://farmora-farm-to-home.vercel.app/]
 
 🎬 **CineDB**  
-Modern movie discovery application built with React.
+A modern movie discovery application for exploring movies and displaying movie information through API integration.
+
+Tech: React • Vite • JavaScript • API Integration
+
+🔗 Live Demo: [https://cine-dbase.vercel.app/]
+
+🤖 **Sky AI**  
+An AI-powered productivity and assistant platform focused on intelligent interactions and AI-powered features.
+
+Tech: React • Node.js • AI APIs
 
 📱 **Mobile Apps**  
 Cross-platform applications using Flutter and Kotlin.
@@ -106,8 +116,8 @@ Cross-platform applications using Flutter and Kotlin.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Msumankumar05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://itsmsk.vercel.app/"> 
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 </a>
 </p>
 
